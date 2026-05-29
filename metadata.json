@@ -1,0 +1,6 @@
+{
+  "name": "Material Quote IDE",
+  "description": "An interactive, high-fidelity VS Code-style Material Quoting System & BOM generator with server-side AI assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
